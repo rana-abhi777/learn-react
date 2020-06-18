@@ -1,0 +1,5 @@
+page link(just search "create react app"):
+https://create-react-app.dev/docs/getting-started
+
+1. npx create-react-app react-complete-guide
+2. npm start (to run the project)
