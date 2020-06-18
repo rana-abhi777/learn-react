@@ -1,1 +1,3 @@
-# Learning fronend library/framework React and Learning Modern Javascript fundamentals alongside!
+# React-Learn
+
+## Learning fronend library/framework React and Learning Modern Javascript fundamentals alongside!
